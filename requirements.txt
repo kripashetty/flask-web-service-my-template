@@ -9,9 +9,9 @@ pytest==7.1.2
 sphinx==4.5.0
 
 # Common packages for data manipulation and requests
-numpy==1.22.3
-pandas==1.4.2
-requests==2.27.1
+#numpy==1.22.3
+#pandas==1.4.2
+#requests==2.27.1
 
 # Environment variable management
 python-dotenv==0.20.0
