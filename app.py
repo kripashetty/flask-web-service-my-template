@@ -9,7 +9,7 @@ items = []
 
 class HelloWorld(Resource):
     def get(self):
-        return {'message': 'Hello, World!'}
+        return {'message': 'This is a Flask API!'}
 
 
 class Item(Resource):
