@@ -4,7 +4,7 @@ on:
   push:
     branches:
 #      - main
-      - feature/setup-github-actions
+      - feature/*
   pull_request:
     branches:
       - main
