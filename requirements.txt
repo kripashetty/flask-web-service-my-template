@@ -16,3 +16,6 @@ sphinx==4.5.0
 # Environment variable management
 python-dotenv==0.20.0
 
+# Flask
+Flask==3.0.3
+Flask-RESTful==0.3.10
